@@ -8,7 +8,7 @@
 ## Data Analytics Projects
 
 ### End-to-End
-- [Six Flags Sentiment Analyzer](https://noammaman.com/six-flags)
+- [Six Flags Sentiment Analyzer](https://github.com/noammaman/sixflags)
 
 
 ### Contact me via:
